@@ -1,0 +1,11 @@
+.zone-banner-image {
+  height: 94vh;
+  background-color: #670000;
+  background-color: silver;
+  color: #ffffff;
+}
+
+.v-center {
+  display: flex;
+  align-items: center;
+}

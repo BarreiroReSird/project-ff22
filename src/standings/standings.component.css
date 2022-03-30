@@ -1,0 +1,46 @@
+.v-center {
+  display: flex;
+  align-items: center;
+}
+
+.zone-page {
+  margin-top: 2vh;
+  background-color: darkgrey;
+  color: black;
+}
+
+.zone-box {
+  padding-left: 1vw;
+  padding-right: 1vw;
+  background-color: silver;
+  color: black;
+}
+
+.zone-title-top {
+  background-color: silver;
+  color: black;
+}
+
+.zone-title-bot {
+  background-color: silver;
+  color: black;
+}
+
+.text-green{
+  background-color: yellowgreen;
+}
+
+.text-red{
+  background-color: red;
+}
+
+.zone-team-rb {
+  background-color: orange;
+  color: black;
+}
+
+.zone-team-rs {
+  background-color: darkblue;
+  color: white;
+}
+

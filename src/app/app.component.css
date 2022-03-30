@@ -1,0 +1,23 @@
+p {
+  font-family: Lato;
+}
+
+.zone-navbar {
+  height: 6vh;
+  background-color: #670000;
+  color: #ffffff;
+}
+
+.zone-navbar-container {
+  /* box-shadow: 0 1vh 1vh 1vh rgba(0, 0, 0, 0.2); */
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.v-center {
+  display: flex;
+  align-items: center;
+}

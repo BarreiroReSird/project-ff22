@@ -1,46 +1,17 @@
+.all-page {
+  width: 100%;
+  height: 100%;
+  background-color: grey;
+}
 .v-center {
   display: flex;
   align-items: center;
 }
-
-.zone-page {
-  margin-top: 2vh;
-  background-color: darkgrey;
-  color: black;
+.banner-css {
+  width: 100%;
+  height: 600px;
+  background-image: url('http://drive.google.com/uc?export=view&id=1ho5nK393LYaNc7xQ9KxvnCgijxwY4cs-');
+  background-repeat: no-repeat;
+  background-position: 50% 15%;
+  background-size: cover;
 }
-
-.zone-box {
-  padding-left: 1vw;
-  padding-right: 1vw;
-  background-color: silver;
-  color: black;
-}
-
-.zone-title-top {
-  background-color: silver;
-  color: black;
-}
-
-.zone-title-bot {
-  background-color: silver;
-  color: black;
-}
-
-.text-green{
-  background-color: yellowgreen;
-}
-
-.text-red{
-  background-color: red;
-}
-
-.zone-team-rb {
-  background-color: orange;
-  color: black;
-}
-
-.zone-team-rs {
-  background-color: darkblue;
-  color: white;
-}
-

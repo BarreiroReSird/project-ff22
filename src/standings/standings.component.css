@@ -16,16 +16,44 @@
   background-position: 50% 15%;
   background-size: cover;
 }
-.banner-overlay{
+.banner-overlay {
   width: 100%;
   height: 100%;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(0,0,0,0.6);
+  background-color: rgba(0, 0, 0, 0.6);
   cursor: pointer;
 }
-.subtitle-ts{
+.subtitle-ts {
   font-weight: 400;
+}
+.bg-mclaren {
+  width: 100%;
+  height: 50vh;
+  background-image: url('http://drive.google.com/uc?export=view&id=1tuIzYOksExzNtjdrG-WFk3Xb7VI2iWoQ');
+  background-repeat: no-repeat;
+  background-position: 50% 15%;
+  background-size: cover;
+}
+.overlay-mclaren {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  cursor: pointer;
+}
+.text-fix {
+  color: #ffffff;
+  font-weight: 500;
+}
+.margin-zero {
+  margin: 0px;
+}
+.padding-zero {
+  padding: 0px;
 }

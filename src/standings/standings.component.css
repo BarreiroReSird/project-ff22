@@ -105,3 +105,29 @@
   background-color: rgba(0, 0, 0, 0.6);
   cursor: pointer;
 }
+.bg-mercedes {
+  background-image: url('http://drive.google.com/uc?export=view&id=1BXQkSe1aBgzIFUMRX32BYMLZeA8fuxNT');
+  background-repeat: no-repeat;
+  background-position: 50% 30%;
+  background-size: cover;
+}
+.overlay-mercedes {
+  background-color: rgba(0, 0, 0, 0.6);
+  cursor: pointer;
+}
+.bg-ferrari {
+  background-image: url('http://drive.google.com/uc?export=view&id=1Qzhp06GYP5X1kGMG04xu1puQazqHT2Lm');
+  background-repeat: no-repeat;
+  background-position: 50% 30%;
+  background-size: cover;
+}
+.overlay-ferrari {
+  background-color: rgba(0, 0, 0, 0.6);
+  cursor: pointer;
+}
+@media (min-width: 992px) {
+  .col-lg-1and2 {
+    flex: 0 0 auto;
+    width: 11.1111111111%;
+  }
+}

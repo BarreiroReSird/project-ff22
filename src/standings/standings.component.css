@@ -9,12 +9,12 @@
 }
 .banner-css {
   width: 100%;
-  height: 50vh;
-  /* background-image: url('http://drive.google.com/uc?export=view&id=1ho5nK393LYaNc7xQ9KxvnCgijxwY4cs-'); */
-  background-image: url('http://drive.google.com/uc?export=view&id=1_CK9p3fmI-fMpr0FgXqY95wrB9E0T8-B');
+  height: 84vh;
+  background-image: url('http://drive.google.com/uc?export=view&id=1icqqNaKRltq7-m8WZUdg-legFaULusxi');
   background-repeat: no-repeat;
   background-position: 50% 15%;
   background-size: cover;
+  margin-bottom: 10vh;
 }
 .banner-overlay {
   width: 100%;
@@ -30,20 +30,13 @@
   font-weight: 400;
 }
 .bg-mclaren {
-  width: 100%;
-  height: 50vh;
+  height: fit-content;
   background-image: url('http://drive.google.com/uc?export=view&id=1tuIzYOksExzNtjdrG-WFk3Xb7VI2iWoQ');
   background-repeat: no-repeat;
-  background-position: 50% 15%;
+  background-position: 50% 30%;
   background-size: cover;
 }
 .overlay-mclaren {
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
   background-color: rgba(0, 0, 0, 0.6);
   cursor: pointer;
 }
@@ -56,4 +49,53 @@
 }
 .padding-zero {
   padding: 0px;
+}
+.margin-bot-title {
+  margin-bottom: 10vh;
+}
+.bg-aston-martin {
+  /* width: 100%; */
+  /* height: 50vh; */
+  background-image: url('http://drive.google.com/uc?export=view&id=1_CK9p3fmI-fMpr0FgXqY95wrB9E0T8-B');
+  background-repeat: no-repeat;
+  background-position: 50% 15%;
+  background-size: cover;
+}
+.overlay-aston-martin {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  cursor: pointer;
+}
+.bg-redbull {
+  background-image: url('http://drive.google.com/uc?export=view&id=1iZR4ozMMONJEDASiT5DsHsj0RPEmpFIg');
+  background-repeat: no-repeat;
+  background-position: 50% 30%;
+  background-size: cover;
+}
+.overlay-redbull {
+  background-color: rgba(0, 0, 0, 0.6);
+  cursor: pointer;
+}
+.title-xtras {
+  background-color: red;
+  color: white;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+@media (max-width: 991px) {
+  .v-padding {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+}
+.title-xtras-v2{
+  background-color: red;
+  color: red;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
 }

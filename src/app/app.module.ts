@@ -15,7 +15,7 @@ import { PageNotFoundComponent } from '../page-not-found/page-not-found.componen
     FormsModule,
     RouterModule.forRoot([
       { path: '', component: HomeComponent },
-      { path: 'standings', component: StandingsComponent },
+      { path: 'team-standings', component: StandingsComponent },
       {path: '404', component: PageNotFoundComponent},
       {path: '**', redirectTo: '/404'}
     ]),

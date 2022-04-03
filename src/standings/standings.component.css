@@ -54,20 +54,12 @@
   margin-bottom: 10vh;
 }
 .bg-aston-martin {
-  /* width: 100%; */
-  /* height: 50vh; */
   background-image: url('http://drive.google.com/uc?export=view&id=1_CK9p3fmI-fMpr0FgXqY95wrB9E0T8-B');
   background-repeat: no-repeat;
-  background-position: 50% 15%;
+  background-position: 50% 30%;
   background-size: cover;
 }
 .overlay-aston-martin {
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
   background-color: rgba(0, 0, 0, 0.6);
   cursor: pointer;
 }
@@ -93,13 +85,23 @@
     padding-bottom: 15px;
   }
 }
-.title-xtras-v2{
+.title-xtras-v2 {
   background-color: red;
   color: red;
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
 }
-.title-xtras-v3{
+.title-xtras-v3 {
   background-color: red;
   color: red;
+}
+.bg-alpine {
+  background-image: url('http://drive.google.com/uc?export=view&id=18eF3_aIc5jHMuFfAqekZLU65i-VnozU2');
+  background-repeat: no-repeat;
+  background-position: 50% 30%;
+  background-size: cover;
+}
+.overlay-alpine {
+  background-color: rgba(0, 0, 0, 0.6);
+  cursor: pointer;
 }

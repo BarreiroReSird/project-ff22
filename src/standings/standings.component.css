@@ -14,7 +14,7 @@
   background-repeat: no-repeat;
   background-position: 50% 15%;
   background-size: cover;
-  margin-bottom: 10vh;
+  /* margin-bottom: 10vh; */
 }
 .banner-overlay {
   width: 100%;
@@ -130,4 +130,28 @@
     flex: 0 0 auto;
     width: 11.1111111111%;
   }
+}
+.title-xtras-v4 {
+  background-color: red;
+  color: white;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  width: 100%;
+}
+.v-margin {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.title-xtras-v0 {
+  background-color: red;
+  color: white;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  width: 100%;
+}
+.mg-bottom-20{
+  margin-bottom: 20px;
+}
+.mg-top-20{
+  margin-top: 20px;
 }

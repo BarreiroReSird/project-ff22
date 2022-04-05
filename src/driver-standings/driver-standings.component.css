@@ -1,15 +1,25 @@
 .all-page {
   width: 100%;
   height: 100%;
-  background-color: silver;
+  /* background-color: silver; */
 }
 .v-center {
   display: flex;
   align-items: center;
 }
+.padding-zero {
+  padding: 0px;
+}
+.margin-zero {
+  margin: 0px;
+}
 .banner {
-  width: 100vw;
+  width: 100%;
   height: 75vh;
+  background-image: url('http://drive.google.com/uc?export=view&id=1e-0egepuj1opNLsuLs-upwMEN7POIHhg');
+  background-repeat: no-repeat;
+  background-position: 50% 15%;
+  background-size: cover;
 }
 .banner-overlay {
   width: 100%;
@@ -20,4 +30,30 @@
   bottom: 0;
   background-color: rgba(0, 0, 0, 0.6);
   cursor: pointer;
+}
+.race-update-1 {
+  background-color: red;
+  color: white;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+.race-update-2 {
+  background-color: red;
+  color: white;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+.bg-charles-leclerc {
+  background-image: url('http://drive.google.com/uc?export=view&id=1wSmdx497xQhHdY_I3AaJUcbDnMK0CSim');
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+}
+.overlay-charles-leclerc {
+  background-color: rgba(0, 0, 0, 0.6);
+  cursor: pointer;
+}
+.text-fix {
+  color: #ffffff;
+  font-weight: 500;
 }

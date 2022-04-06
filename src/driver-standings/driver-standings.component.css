@@ -1,7 +1,7 @@
 .all-page {
   width: 100%;
   height: 100%;
-  /* background-color: silver; */
+  background-color: silver;
 }
 .v-center {
   display: flex;
@@ -36,6 +36,7 @@
   color: white;
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
+  margin-bottom: 15vh;
 }
 .race-update-2 {
   background-color: red;
@@ -44,7 +45,7 @@
   border-top-right-radius: 25px;
 }
 .bg-charles-leclerc {
-  background-image: url('http://drive.google.com/uc?export=view&id=1wSmdx497xQhHdY_I3AaJUcbDnMK0CSim');
+  background-image: url('http://drive.google.com/uc?export=view&id=1gqKodUuCL3rqijeSeWe1V8MA_XEv70Bg');
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: cover;
@@ -56,4 +57,17 @@
 .text-fix {
   color: #ffffff;
   font-weight: 500;
+}
+.title-xtras {
+  background-color: red;
+  color: white;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+.title-xtras-v2 {
+  background-color: red;
+  color: red;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  margin-bottom: 15vh;
 }

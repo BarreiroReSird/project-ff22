@@ -1,3 +1,6 @@
+<!-- f1 logo : <img src="https://drive.google.com/uc?id=1byzliHjI1qZ7EnQFdtqutKjr_Mk1r-4w" alt="F1 logo" /> -->
+
+
 <!-- header zone -->
 <div class="zone-banner-image banner-position-adjust">
   <!-- banner zone -->

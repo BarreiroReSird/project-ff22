@@ -1,0 +1,28 @@
+<!-- header zone -->
+<div class="zone-banner-image banner-position-adjust">
+  <!-- banner zone -->
+  <div class="container background-banner">
+    <div class="row v-center box-adjust">
+      <div class="col-12">
+        <div class="col-4">
+          <h1 class="title-adjust">Formula 1</h1>
+          <h1 class="title-adjust">Fantasy League</h1>
+          <h1 class="title-adjust">Binjas Edition</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- arrow zone -->
+  <!-- <div class="container background-arrow">
+    <div class="row v-center box-adjust">
+      <div class="col-12">
+        <div class="col-6">
+          <img
+            src="https://drive.google.com/uc?id=1f3ZtN3X7HhKORTGQ7ebo7OU9XOXH0bzS"
+            alt="Arrow Down"
+          />
+        </div>
+      </div>
+    </div>
+  </div> -->
+</div>

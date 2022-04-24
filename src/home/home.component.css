@@ -11,6 +11,7 @@
     rgba(0, 0, 0, 1) 5.8%,
     rgba(178, 14, 14, 1) 112.6%
   );
+  height: 94vh;
 }
 .container-v2 {
   width: calc(100% - 100px);

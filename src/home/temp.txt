@@ -1,31 +1,58 @@
-<!-- f1 logo : <img src="https://drive.google.com/uc?id=1byzliHjI1qZ7EnQFdtqutKjr_Mk1r-4w" alt="F1 logo" /> -->
-
-
-<!-- header zone -->
-<div class="zone-banner-image banner-position-adjust">
-  <!-- banner zone -->
-  <div class="container background-banner">
-    <div class="row v-center box-adjust">
-      <div class="col-12">
-        <div class="col-4">
-          <h1 class="title-adjust">Formula 1</h1>
-          <h1 class="title-adjust">Fantasy League</h1>
-          <h1 class="title-adjust">Binjas Edition</h1>
+<!-- another pages -->
+    <section id="another-pages-zone">
+      <div class="another-pages-bg container top-space bottom-space">
+        <div class="bg-light-gray container box-adjust top-space bottom-space">
+          <!-- ferrari -->
+          <div class="row">
+            <div class="col-xs-6 w-50">
+              <div class="ferrari-left ferrari-top">
+                <h1 class="text-adjust v-center">1ST</h1>
+              </div>
+            </div>
+            <div class="col-xs-6 w-50">
+              <div class="ferrari-right ferrari-top text-right">
+                <h1 class="text-adjust v-center-v2">124 PTS</h1>
+              </div>
+            </div>
+            <div class="col-xs-6 w-50">
+              <div class="ferrari-left">
+                <h1 class="text-adjust v-center">
+                  FFC - French Fraulien Connection
+                </h1>
+              </div>
+            </div>
+            <div class="col-xs-6 w-50">
+              <div class="ferrari-right text-right">
+                <img
+                  src="https://drive.google.com/uc?id=15nTPLKtJJ_oPU55--KtZ-HkcEtU1jyXr"
+                  alt="Ferrari Logo"
+                  class="img-adjust"
+                />
+              </div>
+            </div>
+            <div class="col-xs-6 w-50">
+              <div class="ferrari-left">
+                <h1 class="text-adjust v-center">Team Chief :</h1>
+              </div>
+            </div>
+            <div class="col-xs-6 w-50">
+              <div class="ferrari-right text-right">
+                <h1 class="text-adjust v-center-v2">P.Barreiro</h1>
+              </div>
+            </div>
+            <div class="col-xs-12">
+              <div
+                class="ferrari-left ferrari-right ferrari-bottom text-center"
+              >
+                <img
+                  src="https://drive.google.com/uc?id=1xdpOKBoWXN7J3xX9QnHXAosbAZefRa27"
+                  alt="Ferrari Car"
+                  class="img-adjust-v2"
+                />
+              </div>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
-  </div>
-  <!-- arrow zone -->
-  <!-- <div class="container background-arrow">
-    <div class="row v-center box-adjust">
-      <div class="col-12">
-        <div class="col-6">
-          <img
-            src="https://drive.google.com/uc?id=1f3ZtN3X7HhKORTGQ7ebo7OU9XOXH0bzS"
-            alt="Arrow Down"
-          />
-        </div>
-      </div>
-    </div>
-  </div> -->
-</div>
+    </section>
+    <!-- end another pages -->

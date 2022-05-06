@@ -1,3 +1,14 @@
+.custom-header {
+  width: 100%;
+  height: 94vh;
+  /* (100vh menos 6vh da NavBar) */
+  background-image: url('https://drive.google.com/uc?id=1uJcRWvaa4i0vJeZ0ZN-7HJMi2D6TPdm7');
+  background-size: cover;
+  background-position: 50% 75%;
+}
+
+/*  */
+
 #all-page {
   width: 100%;
   height: fit-content;

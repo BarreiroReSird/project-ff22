@@ -118,3 +118,16 @@
   border-bottom: 5px solid #12142d;
   padding-bottom: 5px;
 }
+
+/* Medias */
+@media (max-width: 575px) {
+  .img-adjust-v2 {
+    width: 100%;
+  }
+  .height-adjust {
+    height: 140px;
+  }
+  .height-adjust-v2 {
+    height: 60px;
+  }
+}

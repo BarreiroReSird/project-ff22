@@ -7,6 +7,12 @@
   background-position: 50% 75%;
 }
 
+.overlay {
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 25px;
+  cursor: pointer;
+}
+
 /*  */
 
 #all-page {

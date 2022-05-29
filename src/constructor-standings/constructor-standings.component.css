@@ -118,6 +118,77 @@
   border-bottom: 5px solid #12142d;
   padding-bottom: 5px;
 }
+.mercedes-left {
+  border-left: 5px solid #03bfb5;
+  padding-left: 5px;
+}
+.mercedes-right {
+  border-right: 5px solid #03bfb5;
+  padding-right: 5px;
+}
+.mercedes-top {
+  border-top: 5px solid #03bfb5;
+  padding-top: 5px;
+}
+.mercedes-bottom {
+  border-bottom: 5px solid #03bfb5;
+  padding-bottom: 5px;
+}
+.aston-martin-left {
+  border-left: 5px solid #00594f;
+  padding-left: 5px;
+}
+.aston-martin-right {
+  border-right: 5px solid #00594f;
+  padding-right: 5px;
+}
+.aston-martin-top {
+  border-top: 5px solid #00594f;
+  padding-top: 5px;
+}
+.aston-martin-bottom {
+  border-bottom: 5px solid #00594f;
+  padding-bottom: 5px;
+}
+.mclaren-left {
+  border-left: 5px solid #ff8000;
+  padding-left: 5px;
+}
+.mclaren-right {
+  border-right: 5px solid #ff8000;
+  padding-right: 5px;
+}
+.mclaren-top {
+  border-top: 5px solid #ff8000;
+  padding-top: 5px;
+}
+.mclaren-bottom {
+  border-bottom: 5px solid #ff8000;
+  padding-bottom: 5px;
+}
+.alpine-left {
+  border-left: 5px solid #fd4bc7;
+  padding-left: 5px;
+}
+.alpine-right {
+  border-right: 5px solid #fd4bc7;
+  padding-right: 5px;
+}
+.alpine-top {
+  border-top: 5px solid #fd4bc7;
+  padding-top: 5px;
+}
+.alpine-bottom {
+  border-bottom: 5px solid #fd4bc7;
+  padding-bottom: 5px;
+}
+.height-adjust,
+.height-adjust-v2 {
+  height: 125px;
+}
+.height-adjust-v3 {
+  height: 140px;
+}
 
 /* Medias */
 @media (max-width: 575px) {
@@ -129,5 +200,8 @@
   }
   .height-adjust-v2 {
     height: 60px;
+  }
+  .height-adjust-v3 {
+    height: 100px;
   }
 }

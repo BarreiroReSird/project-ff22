@@ -18,7 +18,10 @@ import { ConstructorStandingsComponent } from '../constructor-standings/construc
     RouterModule.forRoot([
       { path: '', component: HomeComponent },
       // { path: 'team-standings', component: StandingsComponent },
-      { path: 'team-standings', component: ConstructorStandingsComponent },
+      {
+        path: 'constructor-standings',
+        component: ConstructorStandingsComponent,
+      },
       { path: 'driver-standings', component: DriverStandingsComponent },
       { path: '404', component: PageNotFoundComponent },
       { path: '**', redirectTo: '/404' },
